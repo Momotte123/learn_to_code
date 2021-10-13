@@ -58,10 +58,13 @@
 In order to push changes to github:
 
     Edit the files on your computer
-    git add
-    git commit -m "DESCRIBE THE CHANGES"
+    git add [Fichier]
+    git commit -m "BISOUS"
     git push origin master
 
 In order to check which files have been edited:
 
     git status
+
+
+
