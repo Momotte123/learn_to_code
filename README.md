@@ -53,3 +53,15 @@
 | Day 13         | [10 exercises](day13/d13.en.pdf)          |
 | Rush 02        | [Rush 00 reversed](rush02/colle02.en.pdf) |
 | BSQ            | [BSQ](bsq/bsq.en.pdf)                     |
+
+
+In order to push changes to github:
+
+    Edit the files on your computer
+    git add
+    git commit -m "DESCRIBE THE CHANGES"
+    git push origin master
+
+In order to check which files have been edited:
+
+    git status
